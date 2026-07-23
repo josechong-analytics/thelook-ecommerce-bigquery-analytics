@@ -19,13 +19,6 @@ This repository serves as a comprehensive Data Analytics portfolio utilizing the
 * **Tech Stack:** Multi-table JOINs, subqueries via CTEs, aggregate business metrics, and date functions.
 
 ---
-
-## Interactive Dashboards
-
-### [Live E-commerce Performance Dashboard] https://datastudio.google.com/reporting/79667497-7e86-418c-8a8f-ed66914dca10
-* **Description:** An interactive operational dashboard built on Looker Studio, directly connected to the BigQuery data pipeline to visualize conversion rates, cart abandonment metrics, and user progression logs.
-* 
----
 ## Data Infrastructure & Methodology
 * **Source:** bigquery-public-data.thelook_ecommerce (Live Google Cloud Marketplace dataset).
 * **Framework:** "Ask Questions to Make Data-Driven Decisions" (Google Analytics Certification approach).
